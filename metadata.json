@@ -1,0 +1,6 @@
+{
+  "name": "PureSmile - Doctor Dental Clinic",
+  "description": "Advanced dental care with precision, comfort and modern technology featuring 3D holographic diagnostics and luxury aesthetic dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
